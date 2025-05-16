@@ -25,16 +25,16 @@ Run: `brew install ffmpeg`
 
 5. **(OPTIONAL) If using an Intel Mac** — Torch deprecated support after v2.2.2. Modify the root-level `pyproject.toml` file and replace the first few lines under `[tool.poetry.dependencies]` with:  
  
-[tool.poetry.dependencies]
-torch = "2.2.2"
-requests = "^2.32.3"
-python = ">=3.11,<3.13"
-pyyaml = "^6.0.2"
-typer = "^0.12.5"
-llvmlite = "^0.44.0"
-pytest = "^8.3.4"
-httpx = "^0.28.1"
-numpy = "1.26.4"
+[tool.poetry.dependencies] <br>
+torch = "2.2.2" <br>
+requests = "^2.32.3"<br>
+python = ">=3.11,<3.13"<br>
+pyyaml = "^6.0.2"<br>
+typer = "^0.12.5"<br>
+llvmlite = "^0.44.0"<br>
+pytest = "^8.3.4"<br>
+httpx = "^0.28.1"<br>
+numpy = "1.26.4"<br>
 
 
 6. **Install project dependencies**  
