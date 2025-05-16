@@ -9,8 +9,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Special thanks to Brian Levine.
 
-# RescueBox
-
 RescueBox is a Python and Node.js-based desktop application designed to manage resources and run plugin-based services with a responsive UI and modular backend.
 
 
