@@ -11,6 +11,10 @@ Special thanks to Brian Levine.
 
 ## 🧰 Setup Instructions (macOS)
 
+1. **Clone the repository**
+git clone https://github.com/UMass-Rescue/RescueBox.git
+cd RescueBox
+
 1. **Install Python 3.12**  
 Run: `brew install python@3.12`  
 
